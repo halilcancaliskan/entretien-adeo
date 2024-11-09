@@ -1,5 +1,11 @@
 {
-  "dependencies": {
+  "name": "horoscope-adeo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+    "dependencies": {
     "express": "^4.21.1",
     "horoscope": "^2.0.1"
   },
