@@ -31,6 +31,8 @@ Exemple de réponse :
   "sign": "Capricorn"
 }
 
+<img width="635" alt="sagitaire" src="https://github.com/user-attachments/assets/7f7d1a1d-4436-4194-a3d1-f9fa65c48bfe">
+
 ## Lancer l'application avec Docker
 Si vous préférez exécuter l’application dans un conteneur Docker :
 Construisez l’image Docker :
