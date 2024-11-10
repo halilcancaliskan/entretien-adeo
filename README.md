@@ -48,6 +48,7 @@ Pour exécuter les tests, lancez la commande suivante :
 Les tests vérifient le fonctionnement de l'API et les réponses pour différentes dates de naissance.
 
 ## CI/CD
+Ce projet inclut une action GitHub CI pour tester et construire l’image Docker automatiquement.
 
 ## Structure du Projet
 src/ : Code source de l'application
